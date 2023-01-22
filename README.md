@@ -1,6 +1,6 @@
-<h1 align="center"> Useful Github Commands </h1>
-
 ## :pencil: About ##
+
+**Useful Github Commands:**
 
 A list of Git commands for managing Git repositories. Download
 git from [here](https://git-scm.com/downloads).
